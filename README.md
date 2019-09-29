@@ -16,7 +16,6 @@ as your references.
 ![](https://github.com/ChongMeiYong/254459-STIW2044-Lab-1/blob/master/Input1.png) 
 ![](https://github.com/ChongMeiYong/254459-STIW2044-Lab-1/blob/master/Input2.png)
 
-
 # Output Sample :
 ![](https://github.com/ChongMeiYong/254459-STIW2044-Lab-1/blob/master/Output1.png)
 ![](https://github.com/ChongMeiYong/254459-STIW2044-Lab-1/blob/master/Output2.png)
