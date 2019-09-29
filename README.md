@@ -10,7 +10,7 @@ https://www.thecalculatorsite.com/health/bmr-calculator.php
 as your references. 
 
 # First Run : 
-![alt text](https://github.com/ChongMeiYong/254459-STIW2044-Lab-1/blob/master/FirstRun.png?raw=true)
+![](https://github.com/ChongMeiYong/254459-STIW2044-Lab-1/blob/master/FirstRun.png?raw=true = 250x250)
 
 # Input Sample :
 ![](https://github.com/ChongMeiYong/254459-STIW2044-Lab-1/blob/master/Input1.png)
